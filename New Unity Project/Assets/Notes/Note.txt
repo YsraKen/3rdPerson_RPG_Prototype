@@ -1,0 +1,1 @@
+create a separate combat state machine
